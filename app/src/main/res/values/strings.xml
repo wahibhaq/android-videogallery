@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Video Gallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_recordvideo">Record Video</string>
+    <string name="videopreview_title">Video Preview</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
